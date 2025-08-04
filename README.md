@@ -30,17 +30,17 @@ Here is an example you can use: [example.ts](Example/example.ts) or here is a tu
 
 Use the stable version:
 ```bash
-npm install @slnckyami/V3-Baileys
+npm install baileys@github:miftah12345678/BailHam
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```bash
-yarn add @slnckyami/V3-Baileys@latest
+yarn add @whiskeysockets/BailHam@latest
 ```
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@slnckyami/V3-Baileys")
+const { default: makeWASocket } = require("@whiskeysockets/BailHam")
 ```
 # Links
 
