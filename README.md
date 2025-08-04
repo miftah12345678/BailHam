@@ -40,7 +40,7 @@ yarn add @whiskeysockets/BailHam@latest
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@whiskeysockets/BailHam")
+const { default: makeWASocket } = require("@whiskeysockets/baileys")
 ```
 # Links
 
